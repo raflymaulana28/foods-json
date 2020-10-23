@@ -1,0 +1,46 @@
+{
+  "data":[
+          {
+           "id":0,
+           "name":"Bakso Makar",
+           "image":"https://asset.kompas.com/crops/I9YfYuGPYoqtkGOgVDurgj-2MiY=/0x0:1000x667/750x500/data/photo/2020/06/02/5ed5f39c7d8fe.jpg",
+           "price": 20000,
+           "description": "<h1>Ini Deskripsi</h1>",
+           "category" : [
+                         "Bakso",
+                         "Promo"
+                        ],
+           inStock : true,
+           isPromo : false,
+           promoPrice: null
+          },
+               {
+           "id":1,
+           "name":"Lasagna",
+           "image":"https://thestayathomechef.com/wp-content/uploads/2017/08/Most-Amazing-Lasagna-2-e1574792735811.jpg",
+           "price": 30000,
+           "description": "<h1>Ini Lasagna</h1>",
+           "category" : [
+                         "Pasta",
+                         "Promo"
+                        ],
+           inStock : true,
+           isPromo : true,
+           promoPrice: 12000
+          },
+               {
+           "id":2,
+           "name":"Oreo CheeseCake",
+           "image":"https://i2.wp.com/www.livewellbakeoften.com/wp-content/uploads/2016/04/No-Bake-Oreo-Cheesecake-4.jpg?fit=680%2C1020&ssl=1",
+           "price": 15000,
+           "description": "<h1>Ini Oreo</h1>",
+           "category" : [
+                         "Dessert",
+                         "Promo"
+                        ],
+           inStock : true,
+           isPromo : false,
+           promoPrice: null
+          }
+        ]
+}

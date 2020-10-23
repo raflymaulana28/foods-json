@@ -1,5 +1,5 @@
 {
-  "data":[
+  "foods":[
           {
            "id":0,
            "name":"Bakso Makar",
@@ -10,9 +10,9 @@
                          "Bakso",
                          "Promo"
                         ],
-           inStock : true,
-           isPromo : false,
-           promoPrice: null
+           "inStock" : true,
+           "isPromo" : false,
+           "promoPrice": null
           },
                {
            "id":1,
@@ -24,9 +24,9 @@
                          "Pasta",
                          "Promo"
                         ],
-           inStock : true,
-           isPromo : true,
-           promoPrice: 12000
+           "inStock" : true,
+           "isPromo" : true,
+           "promoPrice": 12000
           },
                {
            "id":2,
@@ -38,9 +38,9 @@
                          "Dessert",
                          "Promo"
                         ],
-           inStock : true,
-           isPromo : false,
-           promoPrice: null
+           "inStock" : true,
+           "isPromo" : false,
+           "promoPrice": null
           }
         ]
 }

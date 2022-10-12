@@ -41,6 +41,20 @@
            "inStock" : true,
            "isPromo" : false,
            "promoPrice": null
+          },
+      {
+           "id":3,
+           "name":"Kue Pancong",
+           "image":"https://caramembuat.id/wp-content/uploads/2022/04/cara-membuat-kue-pancong-kelapa.webp",
+           "price": 5000,
+           "description": "<h1>Ini Kue pancong aka Kue bandros</h1>",
+           "category" : [
+                         "Dessert",
+                         "Promo"
+                        ],
+           "inStock" : true,
+           "isPromo" : false,
+           "promoPrice": null
           }
         ]
 }
